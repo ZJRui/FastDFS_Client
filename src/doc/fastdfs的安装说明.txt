@@ -1,0 +1,5 @@
+
+1,虚拟机162安装了fdfs tracker 节点。
+2，虚拟机163 安装了fdfs-storage节点，也安装了nginx。
+
+参考有道云笔记 ： linux搭建FastDFS文件服务器

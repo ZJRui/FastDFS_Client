@@ -10,9 +10,11 @@ import java.nio.charset.Charset;
  */
 @SuppressWarnings("unused")
 public class TestConstants {
-    private static String ip_home = "172.17.0.2";
-    private static String ip_work = "10.0.75.2";
-    private static String ip_work_store = "192.168.174.43";
+    private static String ip_home = "192.168.119.163";
+    //tracker
+    private static String ip_work = "192.168.119.162";
+    //storage
+    private static String ip_work_store = "192.168.119.163";
     public final static int PORT = 22122;//22122
     public final static int STORE_PORT = 23000; //23000
     public static InetSocketAddress address = new InetSocketAddress(ip_home, PORT);
